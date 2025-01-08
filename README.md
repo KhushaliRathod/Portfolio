@@ -4,7 +4,7 @@
 - Book Recommendation System
 - Diabetes Prediction Model
 
-##Technology Used
+## Technology Used
 - Python
 - Juypter notebook
 
