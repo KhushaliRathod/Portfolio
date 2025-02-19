@@ -7,5 +7,10 @@
 ## Technology Used
 - Python
 - Juypter notebook
+---------------------------------------------------
+# Tableau Projects
 
+## Project Overview
+- Electric vehicle analysis
+- Call center analysis
 
