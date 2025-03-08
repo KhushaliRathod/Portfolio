@@ -23,10 +23,10 @@
 1)  Context-Aware AI for SOC Analysts : Aware AI is a context-aware AI assistant designed to help SOC (Security Operations Center) analysts efficiently retrieve insights and recommendations from policies and user data. The system uses vector embeddings, Pinecone as a vector database, and OpenAI’s API to provide relevant responses based on user queries.
 
 Tech Stack
-LLM : GPT 4
-Vector database : Pinecone
-Front end : Streamlit
-Embedding : Hugging Face Sentence Transformers
+- LLM : GPT 4
+- Vector database : Pinecone
+- Front end : Streamlit
+- Embedding : Hugging Face Sentence Transformers
 
 
 
