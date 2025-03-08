@@ -24,11 +24,8 @@
 
 Tech Stack
 LLM : GPT 4
-
 Vector database : Pinecone
-
 Front end : Streamlit
-
 Embedding : Hugging Face Sentence Transformers
 
 
