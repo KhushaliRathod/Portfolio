@@ -13,6 +13,7 @@
 ## Project Overview
 1)  Electric vehicle analysis
 2)  Call center analysis
+3)  Netflix dataset analysis
 
 --------------------------------------------------
 
